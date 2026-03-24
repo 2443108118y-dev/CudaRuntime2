@@ -16,7 +16,7 @@
 #include <openssl/ripemd.h>
 #include <openssl/bn.h>
 #include <openssl/aes.h>
-
+  
 // ---------- 全局配置 ----------
 const std::string ENCRYPTED_KEY = "6PnQmAyBky9ZXJyZBv9QSGRUXkKh9HfnVsZWPn4YtcwoKy5vufUgfA3Ld7";
 const std::string TARGET_ADDRESS = "1JxWyNrkgYvgsHu8hVQZqTXEB9RftRGP5m";
